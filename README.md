@@ -2,4 +2,4 @@
 
 This is a Gym/Fitness Website
 
-URL -  https://benzito1590.github.io/Gym-Club/
+URL -  https://moreofgeet25.github.io/Gym_Club.github.io/index.html
